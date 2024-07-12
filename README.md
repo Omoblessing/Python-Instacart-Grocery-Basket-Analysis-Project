@@ -21,6 +21,7 @@ Key Question 7: What different classifications does the demographic information 
 ● Instacart Customer: “They want to receive ads, promotions, and recommendations that are relevant to the products they order regularly.”
 
 # Project Tasks & Deliverables
+
 Below is a breakdown of tasks and deliverables done to accomplish the project.
 
 Step 1: Installing and launching Jupyter notebook
@@ -65,6 +66,50 @@ Step 9: Data Visualization with Python
 Step 10: Coding Etiquette & Excel Reporting
 ● Create a report that describes the analysis methodology, results, and recommendations for Instacart stakeholders
 
+
+# Data frames used
+
+● orders
+
+● orders_products_prior
+
+● products
+
+● customers
+
+● departments
+
+# Libraries used
+
+The following libraries were used: 
+
+● Pandas : for data analysis
+
+● Numpy: for mathematical equations
+
+● Seaborn: for data visulizations
+
+● Matplotlib: for data visulizations
+
+● Scipy: for data equations
+
+# Folders created
+
+The project files are divided into the following folders: 
+
+Project Management: Instacart grocery basket analysis project brief.
+
+Data: Separated into two subfolders Original Data and Prepared Data. These contains the original data frames and data frames after thay have been cleaned and prepared for analysis respectively. 
+
+Scripts: The Jupyter notebooks used for writing codes for the analysis.
+
+Analysis: The analysis folder contains the visulizations created in Python for developing and explaining insights.
+
+Sent to Client: The final report presented in Excel and sent to the respective stakeholders.
+
+# Resources
+
+ Instacart is a real company that has made their data available online. However, the contents of the attached project brief have been fabricated by CareerFoundry for the purpose of this analysis.
 
 
 
